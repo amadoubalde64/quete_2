@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 
-data = sns.load_dataset("taxis")
+
 
 # Titre
 st.title("Bienvenue sur le site Web de")
